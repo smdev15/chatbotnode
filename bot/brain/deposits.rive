@@ -1,0 +1,22 @@
+
++ check current * rates
+- <call>checkForRates <star></call>
+
++ what [is|are] [the] [current] * rate[s]
+- {@ check current <star> rates}
+
++ * (get me|tell me|looking for|want to know about|checking for|tell me about|how is|what is) [the] [current] * rates
+- {@ check current <star2> rates}
+
++ * (get me|tell me|looking for|want to know about|checking for|tell me about|how is|what is) [the] [current] * rates
+- {@ check current <star2> rates}
+
++ * (get me|tell me|looking for|want to know about|checking for|tell me about|how is|what is) [the] [current] [*] rates
+- {@ check current <star2> rates}
+
++ (get|check) [current] rates
+- For?
+
++ *
+% for
+- {@ check current <star> rates}

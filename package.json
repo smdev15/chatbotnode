@@ -1,0 +1,14 @@
+{
+    "name": "DemoBot",
+    "version": "0.0.0",
+    "description": "Demo chat bot",
+    "dependencies": {
+        "body-parser": "^1.17.2",
+        "ejs": "^2.5.7",
+        "express": "^4.15.3",
+        "jquery": "^3.2.1",
+        "memory-cache": "^0.2.0",
+        "rivescript": "^1.17.2"
+    },
+    "author": "Capgemini"
+}
